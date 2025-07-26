@@ -11,4 +11,4 @@ in my free time i love to play games, cook tasty food, and grow plants, all whil
 
 ### something cool i recently worked on:
 ![aurebesh_gfx](aurebesh_gfx.webp)
-an [Adafruit_GFX](https://github.com/adafruit/Adafruit-GFX-Library)-compatible Aurebesh glyph font for microcontroller displays. its source code is [here](https://github.com/rembutils/blob/main/Aurebesh_GFX/Font7x5Aurebesh.h).
+an [Adafruit_GFX](https://github.com/adafruit/Adafruit-GFX-Library)-compatible [Aurebesh](https://starwars.fandom.com/wiki/Aurebesh) glyph font for microcontroller displays. its source code is [here](https://github.com/rembutils/blob/main/Aurebesh_GFX/Font7x5Aurebesh.h).
