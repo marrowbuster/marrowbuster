@@ -1,6 +1,6 @@
 ## heyhey. 
 
-name's marrow. am a computer engineer who loves to work with microcontroller boards, FPGAs, Linux machines, and other types of embedded systems.
+name's marrow. am a computer engineer and full-stack developer who loves to work with everything from microcontroller boards, FPGAs, Linux machines, and other types of embedded systems to web frameworks, desktop applications, and game mods.
 
 in my free time i love to play games, cook tasty food, and grow plants, all while developing aforementioned computer systems for such experiences. :)
 
