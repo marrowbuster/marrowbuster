@@ -1,8 +1,8 @@
 ## heyhey. 
 
-name's marrow. am a data engineer who loves to work with everything from microcontroller boards, FPGAs, Linux machines, and other types of embedded systems to web frameworks, desktop applications, and game mods.
+name's marrow. am a research assistant who loves to work with everything from microcontroller boards, FPGAs, Linux machines, and other types of embedded systems to web frameworks, desktop applications, and productivity scripts.
 
-in my free time i love to play games, cook tasty food, and grow plants, all while developing aforementioned computer systems for such experiences. :)
+in my free time i love to cook tasty food, do martial arts, go to networking events, and grow plants, all while developing aforementioned computer systems for such experiences and continually expanding my knowledge base. :)
 
 
 ### stuff i love working with:
