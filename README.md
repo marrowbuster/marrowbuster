@@ -2,7 +2,7 @@
 
 The name's marrow (yes it's all lowercase). I'm a full-stack software engineer who loves to work with everything from microcontroller boards, FPGAs, Linux machines, and other types of embedded systems to web frameworks, desktop applications, productivity scripts, and enterprise suites.
 
-In my free time I love to cook tasty food, do martial arts, go to networking events, and grow plants, all while developing aforementioned computer systems for such experiences and continually expanding my knowledge base. :)
+In my free time I love to cook tasty food, go to networking events, and grow plants, all while developing aforementioned computer systems for such experiences and continually expanding my knowledge base. :)
 
 
 ### Stuff I love working with:
